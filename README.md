@@ -1,0 +1,1 @@
+# learning-solr
